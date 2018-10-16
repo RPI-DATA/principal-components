@@ -1,3 +1,6 @@
 ## Notebooks
-This is a placeholder for the notebooks directory.
-This will hold both Jupyter and R notebooks.    
+
+Work on Clustering and Transformation adopted from:
+https://github.com/amueller/scipy-2018-sklearn
+
+    
