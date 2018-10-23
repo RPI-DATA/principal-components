@@ -6,3 +6,4 @@ https://github.com/amueller/scipy-2018-sklearn
 ## Other Sources
 
 * Raschka, S., "Python Machine Learning", Chapter 5: Compressing Data via Dimensionality Reduction.
+* Boschetti, A. and Massaron, L., "Python Data Science Essentials", Chapter 3: The Data Pipeline
